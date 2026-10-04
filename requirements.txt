@@ -1,0 +1,7 @@
+pandas
+numpy
+pulp<4
+plotly
+dash
+nbformat
+ipykernel
