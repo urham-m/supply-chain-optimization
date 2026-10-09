@@ -18,12 +18,12 @@ This project cuts logistics costs for a retail supply chain using Python. It cle
 ```
    (On Mac/Linux use `source .venv/bin/activate` instead.)
 
-3. Open `supply_chain_optimization.ipynb` in Jupyter or VS Code and run the cells from top to bottom.
+3. Open `supply_chain_optimization.ipynb` in Jupyter or VS Code. Select the **`.venv` (Python)** kernel, then run the cells from top to bottom.
 
 4. The dashboard opens inside the notebook, or at `http://localhost:8050`.
 
 5. Results are saved in the `outputs/` folder.
 
-
 ## Dataset source
+
 https://www.kaggle.com/datasets/atomicd/retail-store-inventory-and-demand-forecasting
